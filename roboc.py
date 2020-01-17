@@ -29,3 +29,4 @@ for i, carte in enumerate(cartes):
 # Si il y a une partie sauvegardée, on l'affiche, à compléter
 
 # ... Complétez le programme ...
+print("Entrez un numéro de labyrinthe pour commencer à jouer :")
